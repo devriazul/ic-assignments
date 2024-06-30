@@ -1,0 +1,33 @@
+[
+    {
+        "username": "user1",
+        "password": "$2y$10$D1AM7wAlESeprO5EpMvQXeIhN\/6G5vO\/q1NAPU5BSC6G1UBP2nYwW"
+    },
+    {
+        "username": "user2",
+        "password": "$2y$10$hHtGmD8wGi9IhL0PeOyYlulC\/5Kq3Dw4cWv4WOGhJ8VDU7YF.7y5u"
+    },
+    {
+        "username": "newt10",
+        "password": "$2y$10$eccj1iwMhYJSi80fxCOC8epkBQ1W2Loo88nhU3RY.WYwSNOfK8pBi"
+    },
+    {
+        "username": "Admin",
+        "password": "$2y$10$CbILRY4cyuZ2Btrk6dI9JuHqhlSssnIMB9bO\/oteSRGyNxc3Ek5Wa"
+    },
+    {
+        "name": "Riazul",
+        "username": "engr.riazul@gmail.com",
+        "password": "$2y$10$YvcskyTk.46Tps5FNrI.NulkJNz2DTugYIz\/cfpZ4SHmQR.ansYC2"
+    },
+    {
+        "name": "Riazul",
+        "username": "admin@example.com",
+        "password": "$2y$10$H3zaB.hfh\/yYN2gcj8bdTeG\/HK2M8P8woRmJAiwkH6ZjgGJ6C1u6O"
+    },
+    {
+        "name": "dsad",
+        "username": "admin@example.com1",
+        "password": "$2y$10$eqpz7bMN6lChT6b2kEGU5eIv7zJRm1MOXRefrU4JZQBqp6HHSO.QS"
+    }
+]
