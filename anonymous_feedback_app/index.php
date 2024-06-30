@@ -1,5 +1,4 @@
 <?php
-// index.php
 
 // Include header
 include_once('includes/header.php');

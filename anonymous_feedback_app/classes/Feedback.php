@@ -1,5 +1,4 @@
 <?php
-// classes/Feedback.php
 
 class Feedback {
     private $feedbacksDir = 'data/feedbacks/';

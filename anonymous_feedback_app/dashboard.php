@@ -1,5 +1,4 @@
 <?php
-// dashboard.php
 
 // Include necessary classes and header
 include_once('includes/header.php');
